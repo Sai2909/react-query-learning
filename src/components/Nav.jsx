@@ -13,6 +13,9 @@ const Navbar = () => {
         <p>
         <Link to='/traditional'>ReactQuery</Link>
         </p>
+        <p>
+        <Link to='/react-query-learning'>Main Page</Link>
+        </p>
     </div>
   )
 }
